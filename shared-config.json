@@ -1,5 +1,6 @@
 {
   "contactFormEndpoint": "https://submit-form.com/NVTH4z8Pf",
   "feedbackFormEndpoint": "https://submit-form.com/SkxOmwpj6",
-  "umamiUrl": "https://analytics.agogic.io"
+  "umamiUrl": "https://analytics.agogic.io",
+  "googleMapsApiKey": "AIzaSyC6OsqsMXxnLVu5cqbobph-qG8PzgUJQV0"
 }
